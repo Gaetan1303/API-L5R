@@ -16,3 +16,7 @@ fastapi
 uvicorn
 requests
 python-dotenv
+flask
+flask-socketio
+eventlet
+psycopg2-binary
