@@ -1,0 +1,18 @@
+# Data science & ML
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+
+# Deep learning
+tensorflow
+torch
+transformers
+
+# API
+fastapi
+uvicorn
+requests
+python-dotenv
